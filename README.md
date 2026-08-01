@@ -11,7 +11,7 @@ I am a driven 3rd-year Computer Engineering student at Akdeniz University with a
 * 👯 **Looking to Collaborate On:** Innovative tech initiatives, machine learning research, and cross-platform software development.
 
 ### 🧠 Areas of Interes
-* Autonomous Vehicle Systemst
+* Autonomous Vehicle Systems
 * Machine Learning & Deep Learning
 * Natural Language Processing (NLP)
 * Data Analytics & Predictive Modeling
